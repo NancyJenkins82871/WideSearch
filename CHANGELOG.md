@@ -22,3 +22,4 @@
 - fix: clarify the setup steps
 - fix: fix a small wording issue
 - fix: add a note about the defaults
+- docs: add a note about the defaults
